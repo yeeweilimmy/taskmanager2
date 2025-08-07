@@ -26,7 +26,7 @@ res.status(500).json({ message: error.message });
 }
 };
 
-//Update Task:
+//Update Tasks:
 
 const updateTask = async (
 req,
