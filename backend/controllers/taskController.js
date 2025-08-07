@@ -38,7 +38,7 @@ res.status(500).json({ message: error.message });
 }
 };
 
-//Delete task:
+//Delete tasks:
 
 const deleteTask = async (
 req,
